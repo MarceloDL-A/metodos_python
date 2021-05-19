@@ -1,0 +1,5 @@
+name,position,id,location,manager,email,fill,stroke,refs,url,image
+Evan Miller,CFO,emi,Office 1,Edward Morrison,,#dae8fc,#6c8ebf,"emo,tva",https://www.draw.io,
+Edward Morrison,Brand Manager,emo,Office 2,Evan Miller,,#d5e8d4,#82b366,,https://www.draw.io,
+Ron Donovan,System Admin,rdo,Office 3,Evan Miller,,#d5e8d4,#82b366,"emo,tva",https://www.draw.io,
+Tessa Valet,HR Director,tva,Office 4,Evan Miller,,#d5e8d4,#82b366,,https://www.draw.io,
